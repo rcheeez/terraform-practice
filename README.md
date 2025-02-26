@@ -1,4 +1,4 @@
-# Terraform Zero to Hero
+# Terraform Practice
 
 ## 📖 Description
 This is an educational Terraform GitHub repository containing **Terraform HCL code** for automating various infrastructure tasks. It is designed to help users learn Terraform from **basic to advanced levels**.
@@ -6,8 +6,6 @@ This is an educational Terraform GitHub repository containing **Terraform HCL co
 ## 📂 Repository Structure
 - **AWS**: Terraform code for AWS resources  
 - **GCP**: Terraform code for GCP resources  
-- **Azure**: Terraform code for Azure resources  
-- **Modules**: Reusable Terraform modules  
 - **Examples**: Practical Terraform use cases  
 
 ## 🚀 Getting Started
@@ -27,6 +25,3 @@ terraform init
 ```bash
 terraform apply -auto-approve
 ```
-
-## 📢 Contributions
-Contributions are welcome! Feel free to submit pull requests or report issues.
